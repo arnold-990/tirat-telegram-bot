@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types, executor
 import os
 
 # Вставь свой токен сюда
-API_TOKEN = os.getenv("BOT_TOKEN")
+API_TOKEN = os.getenv("8137450437:AAG1j9NEiDGbJbxBrp4lOgS9JYkv7_ZJLLo")
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
